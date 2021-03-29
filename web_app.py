@@ -6,7 +6,7 @@ app=Flask(__name__)
 
 
 # app.config['SQLALCHEMY_DATABASE_URI']='postgresql://postgres:postgres321@localhost/data_collector'
-app.config['SQLALCHEMY_DATABASE_URI']='postgres://yacyhbxjuqdnro:13c240cbcd7ad805fdc95bd93afe60f3aaacc38c2b0ee42b3bc9fd31f0c28968@ec2-18-210-180-94.compute-1.amazonaws.com:5432/dekc2l2kotj4hf?sslmode=require'
+app.config['SQLALCHEMY_DATABASE_URI']='postgres://yacyhbxjuqdnro:13c240cbcd7ad805fdc95bd93afe60f3aaacc38c2b0ee42b3bc9fd31f0c28968@ec2-18-210-180-94.compute-1.amazonaws.com:5432/dekc2lxxxxx4hf?sslmode=require'
 
 db=SQLAlchemy(app)
 
